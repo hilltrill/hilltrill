@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and creating apps
 - 🌱 I’m currently learning  web development
 - 💞️ I’m looking to collaborate on making a website and app
-- 📫 How to reach me  my ig is cxcelthrill
+- 📫 How to reach me  my ig is chillup48
 
 <!---
 hilltrill/hilltrill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
